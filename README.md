@@ -1,4 +1,4 @@
-# GMO
+# Anthony's GMOs
 My repo of plasmid's I designed.
 
 You can use these plasmid's in anyway you may like, share, edit, create variations, have them synthensized, even for commercial use.
